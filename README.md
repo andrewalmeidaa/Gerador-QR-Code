@@ -1,4 +1,4 @@
-# Gerador-QR-Code
+# Gerador De QR Code
 Este é um projeto simples em HTML, CSS e JavaScript que cria um gerador de QR Code a partir de um link informado pelo usuário. O projeto está hospedado localmente e não há uma limitação de tempo de uso. Está licenciado sob a licença MIT e é aberto para contribuições.
 
 Gerador de QR Code
